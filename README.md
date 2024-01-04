@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHuoob
+# :wave: The Basics of GitHub
 peanut butter on eggshells
 ## 🤓 Course overview and learning outcomes 
 
